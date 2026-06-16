@@ -7,3 +7,4 @@ Day 2 : https://github.com/HANNN-YOLO/Excel_KarirNex_Day2
 Day 3 : https://github.com/HANNN-YOLO/Excel_KarirNex_Day3
 Day 4 : https://github.com/HANNN-YOLO/Excel_KarirNex_Day4
 Day 5 : https://github.com/HANNN-YOLO/Excel_KarirNex_Day5
+Day 6 : https://github.com/HANNN-YOLO/Excel_KarirNex_Day6
